@@ -1,0 +1,8 @@
+llama-index==0.11.1
+llama-index-llms-ollama==0.3.0
+fastembed==0.3.6
+litellm==1.44.5
+python-dotenv==1.0.1
+qdrant-client==1.11.0
+redis==5.0.8
+requests==2.32.3
